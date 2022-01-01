@@ -1,0 +1,7 @@
+ 
+LAPTOP                 thinkpad               255555               
+TABLET                 samsung                222222               
+MACBOO                 macbook                333333               
+PCASUS                 pcc                    23456                
+MOBILE                 iphone                 333333               
+TABTAb                 maytinh                250000               
